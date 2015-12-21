@@ -1,0 +1,6 @@
+19 ноя 2015 18:06:13,586 DEBUG main Main:main:60 - args = [-h]
+19 ноя 2015 18:06:46,414 DEBUG main Main:main:60 - args = [-h]
+19 ноя 2015 18:06:51,382 DEBUG main Main:main:60 - args = [-mn]
+19 ноя 2015 18:06:51,386 DEBUG main Main:main:99 - flags: 1000
+19 ноя 2015 18:07:07,600  INFO main Main:getDBServiceName:372 - Return code = 0
+19 ноя 2015 18:07:07,626 DEBUG main Main:getDBServiceName:382 - dbService name is Apache CouchDB01d0ba38b123c230
